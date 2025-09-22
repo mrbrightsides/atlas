@@ -1,82 +1,93 @@
-SAFE (Smart Atlas For Environment)
-🎯 Visi
+# SAFE (Smart Atlas For Environment)
+
+## 🎯 Visi
 
 Menjadi atlas pintar global yang menyajikan informasi keamanan, lingkungan, dan keberlanjutan dalam satu peta terpadu, memanfaatkan Blockchain untuk transparansi dan AI/ML untuk prediksi risiko. SAFE membantu wisatawan, warga, pemerintah, dan investor untuk mengambil keputusan berbasis data real-time.
 
-🧩 Lapisan Utama (Risk Layers)
+---
 
-Crime & Safety Layer
+## 🧩 Lapisan Utama (Risk Layers)
 
-Data kriminalitas dari kepolisian lokal, crowdsourcing pengguna, dan media lokal.
+1. Crime & Safety Layer
 
-Heatmap tingkat kriminalitas (theft, assault, scam).
+  - Data kriminalitas dari kepolisian lokal, crowdsourcing pengguna, dan media lokal.
 
-Notifikasi area rawan untuk wisatawan → “Avoid Zone Alert”.
+  - Heatmap tingkat kriminalitas (theft, assault, scam).
 
-Environment Layer
+  - Notifikasi area rawan untuk wisatawan → “Avoid Zone Alert”.
 
-Data polusi udara (AQI), banjir, kebakaran hutan, cuaca ekstrem.
+2. Environment Layer
 
-Integrasi IoT sensor lokal (jika ada).
+  - Data polusi udara (AQI), banjir, kebakaran hutan, cuaca ekstrem.
 
-Overlay bencana historis → resilience score.
+  - Integrasi IoT sensor lokal (jika ada).
 
-Tourism Hotspots Layer
+  - Overlay bencana historis → resilience score.
 
-Jalur aman menuju destinasi wisata.
+3. Tourism Hotspots Layer
 
-Rekomendasi safe route berbasis real-time risk.
+  - Jalur aman menuju destinasi wisata.
 
-Informasi fasilitas darurat (rumah sakit, kantor polisi, shelter).
+  - Rekomendasi safe route berbasis real-time risk.
 
-Community Report Layer
+  - Informasi fasilitas darurat (rumah sakit, kantor polisi, shelter).
 
-User submit laporan → lokasi, foto, kategori (crime, hazard, environment).
+4. Community Report Layer
 
-Laporan dicatat di blockchain → transparansi (no fake delete).
+  - User submit laporan → lokasi, foto, kategori (crime, hazard, environment).
 
-Sistem verifikasi oleh admin / polisi lokal untuk tingkat validitas.
+  - Laporan dicatat di blockchain → transparansi (no fake delete).
 
-🛠️ Fitur Utama
+  - Sistem verifikasi oleh admin / polisi lokal untuk tingkat validitas.
 
-Heatmap Multi-Layer → user bisa toggle Crime / Flood / Pollution / Fire.
+---
 
-Risk Index Per Daerah → skor 0–100 untuk memudahkan banding antar wilayah.
+## 🛠️ Fitur Utama
 
-Safe Route Navigator → algoritma jalur aman (contoh: hindari banjir + kriminalitas tinggi).
+- Heatmap Multi-Layer → user bisa toggle Crime / Flood / Pollution / Fire.
 
-Predictive Timeline → risiko ke depan (contoh: rawan banjir dalam 3 hari).
+- Risk Index Per Daerah → skor 0–100 untuk memudahkan banding antar wilayah.
 
-ESG Alignment → data bisa diekspor untuk GRI, SDGs, dan GHG reporting.
+- Safe Route Navigator → algoritma jalur aman (contoh: hindari banjir + kriminalitas tinggi).
 
-🔗 Teknologi Inti
+- Predictive Timeline → risiko ke depan (contoh: rawan banjir dalam 3 hari).
 
-Blockchain (Ethereum / L2 / STC) → immutable record untuk laporan publik & audit trail.
+- ESG Alignment → data bisa diekspor untuk GRI, SDGs, dan GHG reporting.
 
-AI/ML Engine → prediksi pola kriminalitas dan lingkungan.
+---
 
-GIS & Geospatial API → OpenStreetMap + Mapbox untuk visualisasi interaktif.
+## 🔗 Teknologi Inti
 
-IoT Integration (optional) → sensor lingkungan (air quality, flood gauge, weather station).
+- Blockchain (Ethereum / L2 / STC) → immutable record untuk laporan publik & audit trail.
 
-Crowdsourcing Platform → integrasi mobile/web untuk kontribusi laporan masyarakat.
+- AI/ML Engine → prediksi pola kriminalitas dan lingkungan.
 
-📊 Output & Deliverables
+- GIS & Geospatial API → OpenStreetMap + Mapbox untuk visualisasi interaktif.
 
-SAFE Dashboard → web app interaktif dengan heatmap, risk index, dan rekomendasi.
+- IoT Integration (optional) → sensor lingkungan (air quality, flood gauge, weather station).
 
-Automated Reports → laporan risiko & ESG compliance siap untuk investor/pemerintah.
+- Crowdsourcing Platform → integrasi mobile/web untuk kontribusi laporan masyarakat.
 
-Open API SAFE → integrasi data dengan pihak ketiga (misalnya travel app, insurance).
+---
 
-Research Dataset → data mentah untuk riset akademik & publikasi.
+## 📊 Output & Deliverables
 
-🌟 Manfaat
+- SAFE Dashboard → web app interaktif dengan heatmap, risk index, dan rekomendasi.
 
-Untuk wisatawan: navigasi jalur aman & peringatan daerah rawan.
+- Automated Reports → laporan risiko & ESG compliance siap untuk investor/pemerintah.
 
-Untuk pemerintah: monitoring kriminalitas & lingkungan real-time.
+- Open API SAFE → integrasi data dengan pihak ketiga (misalnya travel app, insurance).
 
-Untuk investor & ESG: transparansi risiko & dampak lingkungan.
+- Research Dataset → data mentah untuk riset akademik & publikasi.
 
-Untuk masyarakat: wadah kontribusi crowdsource dengan kepercayaan blockchain.
+---
+
+## 🌟 Manfaat
+
+- Untuk wisatawan: navigasi jalur aman & peringatan daerah rawan.
+
+- Untuk pemerintah: monitoring kriminalitas & lingkungan real-time.
+
+- Untuk investor & ESG: transparansi risiko & dampak lingkungan.
+
+- Untuk masyarakat: wadah kontribusi crowdsource dengan kepercayaan blockchain.
