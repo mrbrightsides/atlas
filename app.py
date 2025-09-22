@@ -52,7 +52,7 @@ with st.sidebar:
     11. [Decentralized Storage Optimizer](https://rantai-greenstorage.streamlit.app/)
     12. [Cloud Carbon Footprint Tracker](https://rantai-greencloud.streamlit.app/)
     13. [Cloud.Climate.Chain](https://rantai-3c.streamlit.app/)
-    14. [Smart Atlas For Environment](https://safe.streamlit.app/)
+    14. [Smart Atlas For Environment](https://rantai-safe.streamlit.app/)
     15. [Real-time Social Sentiment](https://rantai-rss.streamlit.app/)
     
     ---
