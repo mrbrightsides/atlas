@@ -14,13 +14,12 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **RANTAI GreenCloud** dirancang untuk membantu organisasi memahami dampak lingkungan dari pemakaian cloud mereka.
-    Dengan integrasi lintas platform dan analitik realtime, GreenCloud memberi gambaran menyeluruh tentang konsumsi energi, emisi karbon, dan rekomendasi optimisasi.  
+    **RANTAI SAFE** Community Report adalah modul blockchain decentralized yang mendukung pelaporan risiko dan kejadian di lapangan dengan transparansi dan auditabilitas penuh. Laporan masyarakat disimpan immutable di blockchain, memastikan data valid, terlacak, dan dapat diverifikasi oleh publik serta otoritas terkait.  
     
     ---
     #### 🔮 Vision Statement
     
-    Menciptakan cloud computing yang transparan, hijau, dan bertanggung jawab dengan menjadikan jejak karbon sebagai metrik utama dalam setiap keputusan teknologi.
+    Menjadi sistem pelaporan risiko terdesentralisasi terdepan yang memberdayakan masyarakat dan institusi dengan data terpercaya, sekaligus mendorong keamanan, keberlanjutan, dan ketahanan komunitas melalui teknologi blockchain. Kami percaya transparansi dan kolaborasi berbasis teknologi adalah kunci menuju lingkungan hidup yang lebih aman dan inklusif.
     
     ---
     ### 🧩 STC Ecosystem
